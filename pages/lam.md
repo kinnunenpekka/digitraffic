@@ -106,7 +106,7 @@ Faulty –arvo päätellään seuraavasti:
 - sadasosasekunti on pienempi kuin 0 tai suurempi kuin 99
 - nopeus on pienempi kuin 2 tai suurempi tai yhtä suuri kuin 199
 - suunta on pienempi kuin 1 tai suurempi kuin 2
-- ajoneuvoluokka on pienempi kuin 1 tai suurempi kuin 7
+- ajoneuvoluokka on pienempi kuin 1 tai suurempi kuin 9
 - kaista on pienempi kuin 1
 - pituus on pienempi tai yhtä suuri kuin 1
 - pituus on suurempi kuin 39,8
